@@ -43,7 +43,7 @@ The points that I actually implemented:
 
 ### 3. Cleaning and using the data
 - Visualised the data so the relationships are easier to spot, and merging makes sense.
-![[tables.png]]
+<img src='tables.png'>
 
 - Used this graphic to figure out what tables to merge for each analysis point, and what columns were relavant to for the same.
 - This resulted in a dataframe that was significantly easier to work with.
